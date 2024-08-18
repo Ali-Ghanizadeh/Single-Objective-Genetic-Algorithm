@@ -1,2 +1,2 @@
-# GeneticAlgorithm_AI_CA1
+# Genetic Algorithm
 This repository contains codes of a Genetic Algorithm for purpose of curve fitting from scratch.
